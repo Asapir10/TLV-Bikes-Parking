@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode">
+    
+   
+    
+    <wpt lat="31.956976" lon="33.740216">
+        <time>2018-10-12T13:21:36Z</time>
+        <name>Israel</name>
+        <extensions>
+            <gppx:WaypointExtension>
+                <gppx:Adress>
+                    <gppx:State>Israel</gppx:State>
+                    <gppx:Countrty>ISR</gppx:Country>
+                </gppx:Adress>
+            </gppx:WaypointExtension>
+        </extensions>
+        
+        
+        
+    </wpt>
+    
+</gpx>
